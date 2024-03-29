@@ -1,0 +1,6 @@
+<widget xmlns="https://www.w3.org/ns/widgets" android-versionCode="1" id="com.iBuildThings.MP3Player" version="1.0.0">
+<name>Weather App</name>
+<description>Weather App</description>
+<author>iBuildThings</author>
+<preference name="orientation" value="portrait"/>
+</widget>
